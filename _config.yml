@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aidan Blaser"
+  name             : "Aidan Blaser (ablaser@ucsd.edu)"
   avatar           : "profile.png"
   bio              : "Physical Oceanography Ph.D. Student"
   location         : "La Jolla, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ablaser@ucsd.edu"
+  email            : #"ablaser@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
