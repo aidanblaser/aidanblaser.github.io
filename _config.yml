@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Physical Oceanography Ph.D. Student at Scripps Institution of Oceanography"
   location         : "La Jolla, CA"
-  employer         : "airsea.ucsd.edu/people"
+  employer         : "https://airsea.ucsd.edu/people"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : #"ablaser@ucsd.edu"
