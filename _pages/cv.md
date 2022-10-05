@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv/CV.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.A. in Physics (magna cum laude), Cornell University, 2021
-* Ph.D. in Physical Oceanography, Scripps Institution of Oceanography, 2021 --
 
