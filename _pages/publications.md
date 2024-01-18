@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-Sadly empty as of now ... never hurts to be prepared!
+*Blaser, A.*, Benamran, R., Villas-Bǒas, A.B., Lenain, L., & Pizzo, N. _Momentum, energy, and vorticity balances in surface gravity waves_ (_in prep_)
