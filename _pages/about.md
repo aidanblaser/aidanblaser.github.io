@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm currently a Ph.D. student at Scripps Institution of Oceanography studying the physics and dynamics behind everyday surface waves we see in the ocean. Particularly, I'm interested in how water particles or other marine debris move in surface gravity waves. These waves aren't only an interesting mathematical curiosity; as the bondary between the ocean and atmosphere, they regulate transfers of heat, energy, and momentum, and have the potential to impact our climate.
+Welcome! I'm a Ph.D. candidate at Scripps Institution of Oceanography studying physical oceanography. I'm especially interested in problems that are easy to state yet difficult to solve as they tend to reveal a rich mathematical structure that is made familiar through its projection to the natural world. 
 
-Physical Oceanographic theory has historically been motivated by trying to explain observations, but I think it's just as critical to use theory to predict new phenomena, especially in areas where obtaining accurate measurements is difficult (i.e. the air-sea interface). Because of this I try to include techniques from physics and math to assist in my work.
+My Ph.D. thesis broadly pertains to the dynamics of steep surface gravity waves and tries to answer the following questions:
+1. Why do surface gravity waves transport mass?
+2. How is this mass transport modified when waves superimpose and become locally steep?
+3. Why is the shape of a breaking wave so universal?
 
-I am passionate about teaching, and am a devout believer in Einstein's quote that "If you can't explain it simply, you don't understand it well enough." My ultimate goals are to become a professor in either Physical Oceanography, Fluid Mechanics, or Physics.
+I am passionate about improving pedagogy in the physical sciences, particularly in the field of fluid mechanics. Better teaching not only inspires future researchers, but also strengthens communication between scientific research and the broader public. 
 
-
+Prior to Scripps, I received a B.A. in Physics *magna cum laude* from Cornell University with a concentration in Earth Sciences. In my free time, I enjoy cooking, reading, and playing jazz piano.
