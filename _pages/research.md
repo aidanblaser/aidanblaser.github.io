@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
-<b>1. Why do surface gravity waves transport mass?</b>
+<b>Why do surface gravity waves transport mass?</b>
 </div>
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
-<b>2. How is this mass transport modified when waves superimpose and become locally steep?</b>
+<b>How is this mass transport modified when waves superimpose and become locally steep?</b>
 </div>
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
-<b>3. Why is the shape of a breaking wave so universal?</b>
+<b>Why is the shape of a breaking wave so universal?</b>
 </div>
