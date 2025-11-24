@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-*Blaser, A.*, Benamran, R., Villas Bǒas, A.B., Lenain, L., & Pizzo, N. [_Momentum, energy and vorticity balances in deep-water surface gravity waves_](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/momentum-energy-and-vorticity-balances-in-deepwater-surface-gravity-waves/66DFC9462CF7EAF2CE510B897960DC2E) (JFM, 2024)
+<div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
+<b>1. Why do surface gravity waves transport mass?</b>
+</div>
 
-*Blaser, A.*, Lenain, L., & Pizzo, N. [The increased drift of steep focusing surface gravity waves](https://arxiv.org/abs/2510.20097) (submitted to JFM)
+<div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
+<b>2. How is this mass transport modified when waves superimpose and become locally steep?</b>
+</div>
+
+<div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
+<b>3. Why is the shape of a breaking wave so universal?</b>
+</div>
