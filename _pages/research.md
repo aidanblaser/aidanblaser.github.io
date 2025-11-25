@@ -16,9 +16,11 @@ author_profile: true
 
 <p>In the original 1847 derivation, this drift mostly fell out of the math, and physical explanations for its existence tended to come *post factum*. In my first paper I answered the following questions:</p>
 
-1.Why, fundamentally, should irrotational surface waves induce a mean motion of water? 
-2. What sets its magnitude and direction?
-3. How is this drift related to other physical quantities such as vorticity and energy density? 
+<ol>
+    <li>Why, fundamentally, should irrotational surface waves induce a mean motion of water? </li>
+    <li>What sets its magnitude and direction?</li>
+    <li>How is this drift related to other physical quantities such as vorticity and energy density? </li>
+</ol>
 </div>
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
