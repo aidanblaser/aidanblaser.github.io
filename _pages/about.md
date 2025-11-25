@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Ph.D. candidate at Scripps Institution of Oceanography studying physical oceanography. I'm especially interested in problems that are easy to state yet difficult to solve as they tend to reveal a rich mathematical structure that is made familiar through its projection to the natural world. 
+Welcome! I'm a Ph.D. candidate at Scripps Institution of Oceanography studying physical oceanography. I'm especially interested in problems that are easy to state yet difficult to solve as they tend to reveal a rich mathematical structure in things that are otherwise familiar.
 
 My Ph.D. thesis broadly pertains to the dynamics of steep surface gravity waves and tries to answer the following questions:
 1. Why do surface gravity waves transport mass?
