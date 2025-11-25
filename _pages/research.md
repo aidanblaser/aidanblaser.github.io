@@ -9,7 +9,7 @@ author_profile: true
 <b>Why do surface gravity waves transport mass?</b>
 
   <video width="600" controls autoplay loop muted>
-  <source src="files/stokeswave.mp4" type="video/mp4">
+  <source src="../files/stokeswave.mp4" type="video/mp4">
 </video>
 </div>
 
