@@ -7,6 +7,10 @@ author_profile: true
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
 <b>Why do surface gravity waves transport mass?</b>
+
+  <video width="600" controls autoplay loop muted>
+  <source src="files/stokeswave.mp4" type="video/mp4">
+</video>
 </div>
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
