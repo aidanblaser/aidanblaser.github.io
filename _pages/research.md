@@ -14,7 +14,7 @@ author_profile: true
   <source src="../files/stokeswave.mp4" type="video/mp4">
 </video>
 
-<p>In the original 1847 derivation, this drift mostly fell out of the math, and physical explanations for its existence tended to come *post factum*. In my first paper I answered the following questions:</p>
+<p>In the original 1847 derivation, this drift mostly fell out of the math, and physical explanations for its existence tended to come <i></i>post factum</i>. In my first paper I answered the following questions:</p>
 
 <ol>
     <li>Why, fundamentally, should irrotational surface waves induce a mean motion of water? </li>
