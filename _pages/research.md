@@ -25,8 +25,14 @@ author_profile: true
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
 <b>How is this mass transport modified when waves superimpose and become locally steep?</b>
+
+Any practical model of the wave-induced drift must account for the fact that the real ocean consists of many different waves which superimpose and interact. In almost all cases, it is assumed the total drift is just a sum of the individual drifts of each wave, with no interaction between different wave components. Using a combination of laboratory data, numerical simulations, and theoretical predictions, I show that this assumption can significantly underpredict the total drift when waves superimpose and steepen. 
+  
 </div>
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; margin-bottom:10px;">
 <b>Why is the shape of a breaking wave so universal?</b>
+
+A plunging breaking wave is one of the most powerful and fasinating displays of fluid mechanics in nature. However, there is no satisfactory analytical solution that describes both their shape and dynamics. In this project I'm seeking analytical free-surface solutions which approximate the behavior in the barrel of breaking waves.
+  
 </div>
